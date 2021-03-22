@@ -1,0 +1,16 @@
+@import "fonts";
+@import "reset";
+
+// Base
+
+@import "base/vars";
+@import "base/aos";
+@import "base/global";
+
+// Blocks
+
+@import "blocks/header";
+@import "blocks/banner";
+@import "blocks/types";
+@import "blocks/cost";
+@import "blocks/calculator";

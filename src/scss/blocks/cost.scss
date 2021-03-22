@@ -1,0 +1,19 @@
+.cost {
+  padding: 23px 0 70px;
+}
+
+.cost__text {
+  max-width: 610px;
+  @media (max-width: 380px) {
+    text-align: center;
+    .title::after {
+      left: 50%;
+      transform: translateX(-50%);
+    }
+  }
+}
+
+.subtitle__title {
+  display: block;
+  margin-bottom: 7px;
+}
