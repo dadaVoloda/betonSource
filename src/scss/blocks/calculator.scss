@@ -382,11 +382,11 @@
     height: 15px;
     left: 0;
     top: 0;
-    background-image: url('../../img/icons/snow.svg');
+    background-image: url('../img/icons/snow.svg');
     background-size: cover;
   }
   &:first-child::before {
-    background-image: url('../../img/icons/water.svg');
+    background-image: url('../img/icons/water.svg');
   }
 }
 
